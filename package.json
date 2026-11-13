@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-group-manager",
+  "name": "wa-guard",
   "version": "1.0.0",
   "type": "module",
   "description": "AI-powered automated moderation & rule enforcement bot for WhatsApp groups with anti-ban queue system.",
