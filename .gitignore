@@ -1,0 +1,5 @@
+node_modules/
+.tmp/
+keys.txt
+.DS_Store
+*.log

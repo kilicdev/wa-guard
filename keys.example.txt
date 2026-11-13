@@ -1,0 +1,3 @@
+# Buraya Groq / OpenAI uyumlu API anahtarlarınızı satır satır ekleyebilirsiniz (Fallback rotasyonu için):
+# gsk_xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+# gsk_yyyyyyyyyyyyyyyyyyyyyyyyyyyy

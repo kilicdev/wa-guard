@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-group-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI-powered automated moderation & rule enforcement bot for WhatsApp groups with anti-ban queue system.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "venom-bot",
+    "ai",
+    "moderation",
+    "group-manager",
+    "anti-ban"
+  ],
+  "author": "kilicdev",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "pino": "^10.4.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

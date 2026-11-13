@@ -1,0 +1,6 @@
+1. Sadece alım-satım ilanı paylaşılabilir.
+2. Her ilanda ürün adı ve fiyat zorunludur.
+3. Başka grup, Telegram kanalı veya referans/spam linki paylaşmak yasaktır.
+4. Küfür, hakaret ve dolandırıcılık girişimi kesinlikle yasaktır.
+5. ilan dışı yazılar yasaktır.
+6. silah, kuru sıkı, madde satışı yasaktır.
